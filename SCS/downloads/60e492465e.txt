@@ -1,0 +1,7 @@
+ <div class="btn-group btn-group-justified">
+                        <a href="#" class="btn btn-primary">All courses</a>
+                        <a href="adminfacultylist.php" class="btn btn-primary">Faculty List</a>
+                        <a href="#" class="btn btn-primary">Offered Courses</a>
+                        <a href="admincoursereg.php" class="btn btn-primary">Course Registration</a>
+                    </div>
+                    <br>
